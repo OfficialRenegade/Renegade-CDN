@@ -1,4 +1,4 @@
-# FMod-CDN
-FMod-CDN is where important files are located for the FMod services.
+# Renegade-CDN
+Renegade-CDN is where important files are located for the Renegade services.
 
-![FMod Logo](https://i.imgur.com/ZaopTkb.png)
+![Renegade Logo](https://i.imgur.com/ZaopTkb.png)
